@@ -53,7 +53,7 @@ export default {
   experience: {
     tag: 'Career',
     title: 'Work experience',
-    subtitle: 'Over 4 years building software for the Venezuelan public sector.',
+    subtitle: 'Over 5 years building software for the Venezuelan public sector.',
     present: 'Present',
     jobs: [
       {

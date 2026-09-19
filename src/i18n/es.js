@@ -53,7 +53,7 @@ export default {
   experience: {
     tag: 'Trayectoria',
     title: 'Experiencia laboral',
-    subtitle: 'Más de 4 años desarrollando software en el sector público venezolano.',
+    subtitle: 'Más de 5 años desarrollando software en el sector público venezolano.',
     present: 'Presente',
     jobs: [
       {
