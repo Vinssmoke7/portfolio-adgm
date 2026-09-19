@@ -197,7 +197,8 @@ export default {
   },
   contact: {
     tag: 'Contact',
-    title: "Let's work together",
+    title: 'Contact me',
+    // title: "Let's work together",
     subtitle: 'Got a project in mind or a job opportunity? Drop me a line.',
     cta: 'Send email',
     labels: {

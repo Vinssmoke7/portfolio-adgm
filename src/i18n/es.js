@@ -197,7 +197,8 @@ export default {
   },
   contact: {
     tag: 'Contacto',
-    title: 'Trabajemos juntos',
+    // title: 'Trabajemos juntos',
+    title: 'Contáctame',
     subtitle: '¿Tienes un proyecto en mente o una oportunidad laboral? Escríbeme.',
     cta: 'Enviar correo',
     labels: {
