@@ -166,7 +166,7 @@ export default {
     title: 'Technical skills',
     subtitle: 'Technologies and tools I use every day.',
     groups: [
-      { icon: 'pi-code', title: 'Languages', items: ['JavaScript', 'Python', 'PHP', 'HTML5', 'CSS3'] },
+      { icon: 'pi-code', title: 'Languages', items: ['JavaScript', 'TypeScript', 'Python', 'PHP', 'HTML5', 'CSS3'] },
       {
         icon: 'pi-desktop',
         title: 'Frontend',

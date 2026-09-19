@@ -166,7 +166,7 @@ export default {
     title: 'Habilidades técnicas',
     subtitle: 'Tecnologías y herramientas que uso a diario.',
     groups: [
-      { icon: 'pi-code', title: 'Lenguajes', items: ['JavaScript', 'Python', 'PHP', 'HTML5', 'CSS3'] },
+      { icon: 'pi-code', title: 'Lenguajes', items: ['JavaScript', 'TypeScript', 'Python', 'PHP', 'HTML5', 'CSS3'] },
       {
         icon: 'pi-desktop',
         title: 'Frontend',
